@@ -2,6 +2,7 @@ from keras.models import  load_model,model_from_json
 import numpy as np
 import cv2
 
+#lallalalalalal
 json_file = open('./model.json')
 load_model_json = json_file.read()
 json_file.close()

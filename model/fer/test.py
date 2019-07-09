@@ -6,7 +6,7 @@ import  numpy as np
 
 import matplotlib.pyplot as plt
 
-#哈哈哈哈哈哈哈哈哈哈或
+#lllllllalallalalalal
 
 
 #读取图片并展示
